@@ -11,6 +11,7 @@ APPLICATION_ID=""
 NODE_NAME=""
 NODE_ID=""
 
+################################################################################
 # Logging
 readonly LOG_FILE="$(basename "$0").log"
 debug()   {
